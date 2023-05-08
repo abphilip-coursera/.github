@@ -6,7 +6,7 @@
 [<img alt='Work' src="/Logo/Work.png" width="80">](https://github.com/abphilip-work/)
 [<img alt='Resources' src="/Logo/Resources.png" width="80">](https://github.com/abphilip-resources/)
 
-###  [📌](https://github.com/allenalvin333/) Allen Ben Philipose 
+###  [📌](https://github.com/allenalvin333/) Allen Ben Philipose
 
 <a href = "https://github.com/allenalvin333/allenalvin333/raw/master/Resume.pdf"><img src="https://img.shields.io/badge/Resume-3250AA?style=for-the-badge&logo=libreoffice&logoColor=white"></a>
 <a href = "https://allen.iykk.in/"><img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=Google-domains&logoColor=white"></a>
